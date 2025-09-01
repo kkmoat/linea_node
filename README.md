@@ -11,7 +11,7 @@ vps购买：https://bearhost.us/
 
 买好以后运行：
 
-curl -sSL https://raw.githubusercontent.com/kkmoat/linea-node/main/linea-node.sh | bash
+curl -sSL https://raw.githubusercontent.com/kkmoat/linea-node/main/linea_node.sh | bash
 
 检查日志： sudo docker compose logs -f
 
